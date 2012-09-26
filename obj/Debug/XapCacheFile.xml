@@ -1,22 +1,24 @@
-﻿<xapCache source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\BienStar.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/24/2012 8:53:30 PM">
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/23/2012 5:37:47 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Background.png" archivePath="Background.png" lastWriteTime="9/17/2012 7:17:51 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/17/2012 7:17:51 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\obj\Debug\BienStar.dll" archivePath="BienStar.dll" lastWriteTime="9/24/2012 8:53:28 PM" />
+﻿<xapCache source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\BienStar.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/26/2012 3:09:42 PM">
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Background.png" archivePath="Background.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\BienStar.dll" archivePath="BienStar.dll" lastWriteTime="9/25/2012 11:05:31 AM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3/19/2012 4:29:06 PM" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Toolkit\Oct11\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="10/6/2011 11:33:14 AM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.check.rest.png" archivePath="Images\appbar.check.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.graph.line.png" archivePath="Images\appbar.graph.line.png" lastWriteTime="9/23/2012 9:09:16 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Images\appbar.questionmark.rest.png" archivePath="Images\appbar.questionmark.rest.png" lastWriteTime="9/23/2012 8:55:12 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/17/2012 7:17:51 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/23/2012 5:37:47 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.check.rest.png" archivePath="Images\appbar.check.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="9/17/2012 7:21:19 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.graph.line.png" archivePath="Images\appbar.graph.line.png" lastWriteTime="9/23/2012 9:09:16 PM" />
-  <file source="C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.questionmark.rest.png" archivePath="Images\appbar.questionmark.rest.png" lastWriteTime="9/23/2012 8:55:12 PM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.check.rest.png" archivePath="Images\appbar.check.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.graph.line.png" archivePath="Images\appbar.graph.line.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Images\appbar.questionmark.rest.png" archivePath="Images\appbar.questionmark.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/25/2012 11:05:31 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.check.rest.png" archivePath="Images\appbar.check.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.graph.line.png" archivePath="Images\appbar.graph.line.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.questionmark.rest.png" archivePath="Images\appbar.questionmark.rest.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/25/2012 9:50:42 AM" />
+  <file source="C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="9/25/2012 9:50:42 AM" />
 </xapCache>

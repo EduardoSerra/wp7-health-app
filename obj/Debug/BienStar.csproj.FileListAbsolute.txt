@@ -23,3 +23,27 @@ C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\obj\Deb
 C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\obj\Debug\XapCacheFile.xml
 C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.questionmark.rest.png
 C:\Users\Eduardo\documents\visual studio 2010\Projects\bienStar\BienStar\Bin\Debug\Images\appbar.graph.line.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\ApplicationIcon.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Background.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.check.rest.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.graph.line.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\BienStar.dll
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\BienStar.pdb
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\AppManifest.xaml
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\BienStar.xap
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\BienStar.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\App.g.i.cs
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\MainPage.g.i.cs
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\NewMeasurementPage.g.i.cs
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\BienStar.g.resources
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\BienStar.dll
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\BienStar.pdb
+C:\Users\Eduardo Serra\Documents\GitHub\wp7-health-app\obj\Debug\XapCacheFile.xml
