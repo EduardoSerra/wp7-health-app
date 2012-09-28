@@ -20,7 +20,7 @@ namespace BienStar
         {
             InitializeComponent();
             // Set the page DataContext property to the ViewModel.
-            this.DataContext = App.ViewModel;
+            this.DataContext = App.NewMeasurementPageViewModel;
         }
 
         private void appBarOkButton_Click(object sender, EventArgs e)
@@ -28,7 +28,7 @@ namespace BienStar
             // Confirm there is some text in the text box.
             if (newMeasurementValueTextBox.Text.Length > 0)
             {
-                // Create a new to-do item.
+                // Create a new measurement.
                 Measurement newMeasurement = new Measurement
                 {
                     MeasurementValue = decimal.Parse(newMeasurementValueTextBox.Text),
@@ -38,7 +38,7 @@ namespace BienStar
                 };
 
                 // Add the item to the ViewModel.
-                App.ViewModel.AddMeasurement(newMeasurement);
+                App.NewMeasurementPageViewModel.AddMeasurement(newMeasurement);
 
                 // Return to the main page.
                 if (NavigationService.CanGoBack)

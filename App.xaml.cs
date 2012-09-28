@@ -26,12 +26,23 @@ namespace BienStar
         public PhoneApplicationFrame RootFrame { get; private set; }
 
         // The static ViewModel, to be used across the application.
-        private static MeasurementViewModel viewModel;
-        public static MeasurementViewModel ViewModel
+        //private static MeasurementViewModel measurementViewModel;
+        //public static MeasurementViewModel MeasurementViewModel
+        //{
+        //    get { return measurementViewModel; }
+        //}
+
+        private static MainPageViewModel _mainPageViewModel;
+        public static MainPageViewModel MainPageViewModel
         {
-            get { return viewModel; }
+            get { return _mainPageViewModel; }
         }
 
+        private static NewMeasurementPageViewModel _newMeasurementPageViewModel;
+        public static NewMeasurementPageViewModel NewMeasurementPageViewModel
+        { 
+            get { return _newMeasurementPageViewModel; } 
+        }
 
         /// <summary>
         /// Constructor for the Application object.
@@ -89,10 +100,12 @@ namespace BienStar
             }
 
             // Create the ViewModel object.
-            viewModel = new MeasurementViewModel(DBConnectionString);
+            _mainPageViewModel = new MainPageViewModel(DBConnectionString);
+            _newMeasurementPageViewModel = new NewMeasurementPageViewModel(DBConnectionString);
 
             // Query the local database and load observable collections.
-            viewModel.LoadCollectionsFromDatabase();
+            _mainPageViewModel.LoadCollectionsFromDatabase();
+            _newMeasurementPageViewModel.LoadCollectionsFromDatabase();
 
 
         }

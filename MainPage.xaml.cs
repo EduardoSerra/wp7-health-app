@@ -22,7 +22,7 @@ namespace BienStar
         {
             InitializeComponent();
             // Set the page DataContext property to the ViewModel.
-            this.DataContext = App.ViewModel;
+            this.DataContext = App.MainPageViewModel;
         }
 
         private void newMeasurementAppBarButton_Click(object sender, EventArgs e)
@@ -46,7 +46,7 @@ namespace BienStar
                 // Get a handle for the measurement bound to the button.
                 Measurement measurementForDelete = button.DataContext as Measurement;
 
-                App.ViewModel.DeleteMeasurement(measurementForDelete);
+                App.MainPageViewModel.DeleteMeasurement(measurementForDelete);
             }
 
             // Put the focus back to the main page.
@@ -56,7 +56,7 @@ namespace BienStar
         protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
         {
             // Save changes to the database.
-            App.ViewModel.SaveChangesToDB();
+            App.MainPageViewModel.SaveChangesToDB();
         }
     }
 }
